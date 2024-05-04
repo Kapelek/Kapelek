@@ -1,0 +1,2 @@
+- Hi, my name is Kacper. 
+- My GitHub page is used to store all useful information connected with programming and my projects :)
