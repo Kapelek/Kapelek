@@ -1,2 +1,3 @@
-- Hi, my real full name is Kacper Kędzior. 
-- My GitHub page is used to store all information connected with programming and my projects :)
+<h1 align="center">Hello there 👋 d</h1>
+<h3 align="left">My name is Kacper, I'm an IT student and I major in programming.</h3>
+<h3 align="left">My GitHub contains my projects and other stuff connected with programming.</h3>
