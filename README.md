@@ -1,2 +1,2 @@
-- Hi, my name is Kacper. 
-- My GitHub page is used to store all useful information connected with programming and my projects :)
+- Hi, my real full name is Kacper Kędzior. 
+- My GitHub page is used to store all information connected with programming and my projects :)
